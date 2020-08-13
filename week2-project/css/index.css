@@ -72,10 +72,7 @@ section {
 	background-color: grey;
 	padding: 5px;
 }
-
-		/* simple responsive framework */
-
-		.row {
+	.row {
 			width: 100%;
 		}
 		
