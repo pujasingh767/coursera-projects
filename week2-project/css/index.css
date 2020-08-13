@@ -5,12 +5,13 @@
 		}
 
 		h1 {
-			margin-bottom: 15px;
+			margin-bottom: 25px;
 			text-align: center;
+			font-family: sans-serif;
 		}
 
 		p{
-		    border: 5px solid black;
+		    border: 2px solid black;
 		    background-color: #03fcca;
 		    width: 90%;
 		    height: 150px;
@@ -74,7 +75,7 @@
 				width: 66.66%;
 
 			}
-			.col-sm-1{
+			.col-sm-3{
 				width: 100%;
 
 			}
